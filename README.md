@@ -1,6 +1,13 @@
 # Azure Open AI demos
 <img src="https://www.spiria.com/site/assets/files/10216/azure-openai.jpg" width=500>
 
+# Unai Modified
+- Added devcontainer to run demos in GH codespace
+- Import secrets from GH Secrets to Codespace
+
+Modified:
+1. /Basics 
+
 ## Azure Open AI Studio
 <img src="aoai.png">
 <br>
